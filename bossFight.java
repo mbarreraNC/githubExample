@@ -4,7 +4,7 @@ public class bossFight {
     public static void main(String[] args) {
 
 
-        System.out.println("gesdfksdlfkansdfk");
-        System.out.println("looking good?!");
+        System.out.println("ddddddd");
+        System.out.println("looking gddddddddddood?!");
     }
 }
