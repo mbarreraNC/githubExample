@@ -1,0 +1,26 @@
+[1mdiff --git a/bossFight.java b/bossFight.java[m
+[1mindex 967551e..bc801a9 100644[m
+[1m--- a/bossFight.java[m
+[1m+++ b/bossFight.java[m
+[36m@@ -5,5 +5,6 @@[m [mpublic class bossFight {[m
+ [m
+ [m
+         System.out.println("gesdfksdlfkansdfk");[m
+[32m+[m[32m        System.out.println("looking good?!");[m
+     }[m
+ }[m
+\ No newline at end of file[m
+[1mdiff --git a/simplefile.java b/simplefile.java[m
+[1mindex 5df4034..954b4e1 100644[m
+[1m--- a/simplefile.java[m
+[1m+++ b/simplefile.java[m
+[36m@@ -1,2 +1,8 @@[m
+[31m-package githubExample;public class simplefile {[m
+[32m+[m[32mpackage githubExample;[m
+[32m+[m
+[32m+[m[32mpublic class simplefile {[m
+[32m+[m[32m    public static void main(String[] args){[m
+[32m+[m[32m        System.out.println("gesdfksdlfkansdfk");[m
+[32m+[m[32m        System.out.println("lookingsdfsd?!");[m
+[32m+[m[32m    }[m
+ }[m
